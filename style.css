@@ -6,6 +6,11 @@ body {
      width:100%;
 }
 
+.principal{
+    background: #cccccc;
+    padding: 30px;
+}
+
 h1{
   style:text-align:center ;
 }
@@ -28,4 +33,19 @@ p {
 
 .beneficios {
     background: #FFFFFF;
+}
+
+h2{
+    text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembeneficio{
+    width: 50%;
 }
